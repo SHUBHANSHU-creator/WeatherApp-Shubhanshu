@@ -1,4 +1,13 @@
 # WeatherApp-Shubhanshu
+Hosted Website  link : https://weatherappshubhanshu.netlify.app/
+
+
+
+
+
+
+
+
 Weather app created as a task given by Trademarkia.
 
 Pull the code in your PC 
